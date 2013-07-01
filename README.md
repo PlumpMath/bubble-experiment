@@ -3,7 +3,7 @@ bubble-experiment
 
 inspired by/implemented from  [prayush's code](http://cssdeck.com/labs/hpjd1ovw)
 
-see current demo at [where you can see the current demo currently](bubbles.meteor.com)
+see current demo at [where you can see the current demo currently](http://www.bubbles.meteor.com)
 
 want to experiment with meteor reactivity with canvas. 
 
